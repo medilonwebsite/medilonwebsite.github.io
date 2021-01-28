@@ -2,7 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://wuhansaveeu.com/fr/sitemap.xml</loc>
+    <loc>https://wuhansaveeu.com/cn/sitemap.xml</loc>
+    
+      <lastmod>2018-07-07T18:23:33+06:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://wuhansaveeu.com/de/sitemap.xml</loc>
     
       <lastmod>2018-07-07T18:23:33+06:00</lastmod>
     
