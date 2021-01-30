@@ -38,6 +38,7 @@
     muted: true,
     loop: true,
     autoplay: true,
+    playsinline: true,
     position: '50% 50%',
     posterType: 'detect',
     resizing: true,
@@ -316,6 +317,7 @@
         // Set video properties
         .prop({
           autoplay: settings.autoplay,
+          playsinline: settings.playsinline,
           loop: settings.loop,
           volume: settings.volume,
           muted: settings.muted,
