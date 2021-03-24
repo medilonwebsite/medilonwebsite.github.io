@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Deutsch Example site multi-language</title>
-    <link>https://wuhansaveeu.com/de/categories/</link>
+    <link>https://bruderbo.eu/de/categories/</link>
     <description>Recent content in Categories on Deutsch Example site multi-language</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language><atom:link href="https://wuhansaveeu.com/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-DE</language><atom:link href="https://bruderbo.eu/de/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

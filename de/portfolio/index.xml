@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FRANCAIS Portfolio on Deutsch Example site multi-language</title>
-    <link>https://wuhansaveeu.com/de/portfolio/</link>
+    <link>https://bruderbo.eu/de/portfolio/</link>
     <description>Recent content in FRANCAIS Portfolio on Deutsch Example site multi-language</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 07 Jul 2018 15:45:06 +0600</lastBuildDate><atom:link href="https://wuhansaveeu.com/de/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jul 2018 15:45:06 +0600</lastBuildDate><atom:link href="https://bruderbo.eu/de/portfolio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
