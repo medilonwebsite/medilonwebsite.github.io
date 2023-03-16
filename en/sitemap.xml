@@ -3,210 +3,200 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bruderbo.eu/blog/blog-photos-on-phone/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bruderbo.eu/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://bruderbo.eu/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://bruderbo.eu/cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bruderbo.eu/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bruderbo.eu/blog/installation/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bruderbo.eu/blog/the-nourish-box-august/</loc>
-    <lastmod>2018-07-08T12:20:58+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bruderbo.eu/blog/this-show-has-divided/</loc>
-    <lastmod>2018-07-08T12:18:46+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bruderbo.eu/blog/why-you-need-a-statement-bag-this-season/</loc>
-    <lastmod>2018-07-08T12:11:29+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bruderbo.eu/blog/</loc>
-    <lastmod>2018-07-07T18:23:33+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://bruderbo.eu/cn/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://bruderbo.eu/de/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bruderbo.eu/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bruderbo.eu/blog/are-you-doing-the-right-way/</loc>
-    <lastmod>2018-07-07T17:04:41+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://bruderbo.eu/cn/blog/are-you-doing-the-right-way/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://bruderbo.eu/de/blog/are-you-doing-the-right-way/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bruderbo.eu/blog/are-you-doing-the-right-way/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bruderbo.eu/blog/something-i-need-to-tell-you/</loc>
-    <lastmod>2018-07-07T17:04:02+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bruderbo.eu/blog/ten-things-about-business/</loc>
-    <lastmod>2018-07-07T16:57:54+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bruderbo.eu/contact/</loc>
-    <lastmod>2018-07-07T15:53:27+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://bruderbo.eu/cn/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://bruderbo.eu/de/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bruderbo.eu/contact/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bruderbo.eu/portfolio/</loc>
+    <loc>https://medilon.de/zhiye/</loc>
     <lastmod>2018-07-07T15:45:06+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="cn"
-                href="https://bruderbo.eu/cn/portfolio/"
+                hreflang="de"
+                href="https://medilon.de/de/zhiye/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://bruderbo.eu/de/portfolio/"
+                hreflang="cn"
+                href="https://medilon.de/cn/zhiye/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bruderbo.eu/portfolio/"
+                href="https://medilon.de/zhiye/"
                 />
   </url>
   
   <url>
-    <loc>https://bruderbo.eu/service/</loc>
+    <loc>https://medilon.de/languagetraining/</loc>
+    <lastmod>2018-07-07T15:45:06+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://medilon.de/de/languagetraining/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://medilon.de/cn/languagetraining/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://medilon.de/languagetraining/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://medilon.de/yuyan/</loc>
+    <lastmod>2018-07-07T15:45:06+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://medilon.de/de/yuyan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://medilon.de/cn/yuyan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://medilon.de/yuyan/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://medilon.de/renzheng/</loc>
+    <lastmod>2018-07-07T15:45:06+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://medilon.de/de/renzheng/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://medilon.de/cn/renzheng/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://medilon.de/renzheng/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://medilon.de/peixun/</loc>
+    <lastmod>2018-07-07T15:45:06+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://medilon.de/de/peixun/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://medilon.de/cn/peixun/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://medilon.de/peixun/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://medilon.de/</loc>
+    <lastmod>2018-07-07T15:45:06+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://medilon.de/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://medilon.de/cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://medilon.de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://medilon.de/yunying/</loc>
     <lastmod>2018-07-07T14:53:13+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="cn"
-                href="https://bruderbo.eu/cn/service/"
+                hreflang="de"
+                href="https://medilon.de/de/yunying/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://bruderbo.eu/de/service/"
+                hreflang="cn"
+                href="https://medilon.de/cn/yunying/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bruderbo.eu/service/"
+                href="https://medilon.de/yunying/"
                 />
   </url>
   
   <url>
-    <loc>https://bruderbo.eu/about/</loc>
+    <loc>https://medilon.de/yiyao/</loc>
     <lastmod>2018-07-07T12:37:52+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="https://medilon.de/de/yiyao/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="cn"
-                href="https://bruderbo.eu/cn/about/"
+                href="https://medilon.de/cn/yiyao/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bruderbo.eu/about/"
+                href="https://medilon.de/yiyao/"
                 />
   </url>
   
   <url>
-    <loc>https://bruderbo.eu/categories/</loc>
+    <loc>https://medilon.de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://bruderbo.eu/cn/categories/"
+                href="https://medilon.de/cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://bruderbo.eu/de/categories/"
+                href="https://medilon.de/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bruderbo.eu/categories/"
+                href="https://medilon.de/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://bruderbo.eu/tags/</loc>
+    <loc>https://medilon.de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://bruderbo.eu/cn/tags/"
+                href="https://medilon.de/cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://bruderbo.eu/de/tags/"
+                href="https://medilon.de/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bruderbo.eu/tags/"
+                href="https://medilon.de/tags/"
                 />
   </url>
   
